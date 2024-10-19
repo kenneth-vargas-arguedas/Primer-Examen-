@@ -1,0 +1,7 @@
+C:\Users\kenne\OneDrive\Escritorio\progra2\exa\exa\obj\Debug\exa.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Escritorio\progra2\exa\exa\obj\Debug\exa.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Escritorio\progra2\exa\exa\bin\Debug\exa.exe.config
+C:\Users\kenne\OneDrive\Escritorio\progra2\exa\exa\bin\Debug\exa.exe
+C:\Users\kenne\OneDrive\Escritorio\progra2\exa\exa\bin\Debug\exa.pdb
+C:\Users\kenne\OneDrive\Escritorio\progra2\exa\exa\obj\Debug\exa.exe
+C:\Users\kenne\OneDrive\Escritorio\progra2\exa\exa\obj\Debug\exa.pdb
